@@ -1,3 +1,7 @@
+// input a string 'str' from user.make it 'str' into 15 length character by placing the empty places with alternate**' and starting with and output it.
+
+// NOTE please enter the string whose length is less than or equals to 15.
+
 #include <cstring>
 #include <iostream>
 
